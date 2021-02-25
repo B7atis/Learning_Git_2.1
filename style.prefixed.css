@@ -8,6 +8,7 @@
     padding:50px;
     margin: 60px auto 60px auto;
     text-align: left;
+    display: -ms-flexbox;
     display: flex;
 }
 .poem p {
