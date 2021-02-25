@@ -22,3 +22,10 @@
 .section-subtitle {
     font-size: 14px;
 }
+.footer-inner {
+    font-size: 12px;
+    width: 300px;
+    margin: -100px auto 60px auto;
+    text-align: left;
+    font-family: 'Dancing Script', cursive;
+}
